@@ -30,7 +30,7 @@ and place orders while providing an admin interface for managing the menu and or
 - Node.js
 - Express.js
 - MongoDB (Mongoose)
-- JWT Authentication (if enabled)
+- JWT Authentication 
 ---
 
 ## 📁 Project Structure
