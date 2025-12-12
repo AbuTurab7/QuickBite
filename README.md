@@ -88,7 +88,7 @@ Visit the URL shown in your terminal (usually): http://localhost:5173
 
 💡 Author
 Abu Turab
-GitHub: [Abu Turab](https://github.com/AbuTurab7)
+GitHub: [Abuturab7](https://github.com/AbuTurab7)
 
 
 
